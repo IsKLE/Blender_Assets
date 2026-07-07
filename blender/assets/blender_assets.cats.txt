@@ -6,26 +6,19 @@
 
 VERSION 1
 
-373d0ed2-d37d-4b0f-b0b4-7dce90b31cb1:Advanced:Advanced
-16fadd8f-0dcb-4efa-8a49-ec3cd24db1ca:Advanced/Matrix:Advanced-Matrix
-dbace22d-701f-4747-9981-253d6e5cfe74:Advanced/Matrix:Advanced-Matrix
-069b9677-7635-4492-b567-6ff2e342e40e:Advanced/Matrix/GN:Advanced-Matrix-GN
-d2ad1aa9-684f-4a03-b04f-b51528cdc29f:Advanced/Matrix/Shader:Advanced-Matrix-Shader
-a7c780e4-726a-470c-af51-094823c0e785:Advanced/Nodes:Advanced-Nodes
 47ad9e8e-f29c-4f9e-be8c-90a1c4dbc607:Compositor:Compositor
 cb69a8d8-f572-4cdf-b0ba-6304cbe710d5:Compositor/Effect:Compositor-Effect
 3e5a438b-ce71-4674-b403-52c4a2b525cd:Compositor/Palette:Compositor-Palette
 8407aa22-94b9-4039-8439-54c462bdf16b:Compositor/Utilities:Compositor-Utilities
 540b2428-9f51-412d-b053-a933551db6f3:Effect:Effect
 7e4cc053-253c-4abc-b919-6b21537d2b45:Effect/Flipbook:Effect-Flipbook
-cae5d06b-b330-4d0b-8ff2-e83ca6c35c23:Effect/刀光:Effect-刀光
-606a6baf-016a-4b75-a341-95ce18814b14:Geometry Node:Geometry Node
-4e89aa0c-e1cb-46c6-8be1-d7bb4f60a046:Geometry Node/Curve:Geometry Node-Curve
-b56bf71b-8966-4be8-a50b-4042d28b6928:Geometry Node/Deform:Geometry Node-Deform
-b73de019-ae00-4616-9075-65378563bb7f:Geometry Node/Distribution:Geometry Node-Distribution
-24a5e977-bc22-475b-9020-03450b304d8f:Geometry Node/Generation:Geometry Node-Generation
-493320af-9c4c-44af-9fca-2d5cdc302b72:Geometry Node/Mesh:Geometry Node-Mesh
-6711bfb3-6da4-461f-b90f-bd288533a031:Geometry Node/Tools:Geometry Node-Tools
+cae5d06b-b330-4d0b-8ff2-e83ca6c35c23:Effect/Slash:Effect-Slash
+9d499ac7-29a4-5fca-b747-9aecee7d86b4:Geometry Nodes:Geometry Nodes
+24e3532f-5428-590f-9db8-d1f3ae3386b4:Geometry Nodes/Curve:Geometry Nodes-Curve
+b6f3d83a-ccce-5192-b4b8-e057e3ea9aa5:Geometry Nodes/Generation:Geometry Nodes-Generation
+608dbcde-0942-5a1a-82ec-fae642291a3c:Geometry Nodes/Math:Geometry Nodes-Math
+b3fc809e-f6a4-55b8-a1ba-4180555752a1:Geometry Nodes/Mesh:Geometry Nodes-Mesh
+5577f23f-9634-5d7f-9d2f-8d0198c2a3de:Geometry Nodes/Utility:Utility
 a3f246e6-3ece-408f-9fa8-31089209414a:MFs:MFs
 1a007e23-fe94-4945-bee1-d1e6d337227c:MFs/Coordinates:MFs-Coordinates
 9f087aa3-cfd9-4f48-979b-bc508a3e2b82:MFs/Functions:MFs-Functions
@@ -45,9 +38,7 @@ bcca705c-8947-47b0-b359-bd7950d5e89f:Shader/Fractal:Shader-Fractal
 f9bc149a-cf66-41c3-b979-5b27f1a0e474:Shader/Shape:Shader-Shape
 c17b6214-38e8-4fc2-8f2a-ef4b1d349190:Shader/Texture:Shader-Texture
 411c57d0-fa15-4758-86f6-f8b6eb00b744:Shader/Utility:Shader-Utility
-bc028e49-f9e4-4095-bb27-16cbd5aa1401:Shader/World:Shader-World
 923f8861-6383-4811-93ba-8e2543ee7efd:Shader/平铺:Shader-平铺
 5f0a800a-e46e-437c-b223-ae22efc3e093:Shader/平铺/Tools:Shader-平铺-Tools
 2a1986ca-4ac7-480b-8316-48e010902d39:Shader/平铺/平铺纹理:Shader-平铺-平铺纹理
-ea5ee1e3-76fe-4bdd-ba21-98b58bb8dce9:Shader/数学函数图像:Shader-数学函数图像
 98b89486-696e-4fbf-9831-96a6f1c10edb:三渲二:三渲二
